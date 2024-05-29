@@ -1,7 +1,8 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Екатерина Сметанкина](https://up.htmlacademy.ru/adaptive/31/user/2442495).
-* Наставник: `Неизвестно`.
+* Наставник: [Анна Лисененкова](https://htmlacademy.ru/profile/ankhena).
+* Мой сайт: [Cat Energy](https://katerinesme.github.io/2442495-cat-energy-31/).
 
 ---
 
